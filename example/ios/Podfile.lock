@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - notification_settings (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - notification_settings (from `.symlinks/plugins/notification_settings/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  notification_settings:
+    :path: ".symlinks/plugins/notification_settings/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  notification_settings: 2cdf8c588cf081671eef38b6b2e4cc67353a8b58
+
+PODFILE CHECKSUM: f32fb4e7c14f8b3ca19a369d7be425dd9241af27
+
+COCOAPODS: 1.8.3

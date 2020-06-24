@@ -1,8 +1,8 @@
 name: notification_settings
-description: A new flutter plugin project.
+description: A Flutter plugin to open your apps settings in the iOS settings apps.
 version: 0.0.1
-author:
-homepage:
+author: Hampus Hammarlund
+homepage: hammarlund.dev
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -27,9 +27,6 @@ flutter:
   # adding or updating assets for this project.
   plugin:
     platforms:
-      android:
-        package: dev.hammarlund.notification_settings
-        pluginClass: NotificationSettingsPlugin
       ios:
         pluginClass: NotificationSettingsPlugin
 
